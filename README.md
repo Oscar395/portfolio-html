@@ -1,3 +1,3 @@
-Portafolio personal creado en html, css
+Portafolio creado en html, css
 ## sitio web
 https://oscar395portfolio.netlify.app/
